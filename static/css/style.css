@@ -423,9 +423,9 @@ b, strong {
 	text-decoration: none;
 }
 .page-title h2 {
-	background: #333;
+	background: #ddd;
 	border-radius: 3px;
-	color: #eee;
+	color: #312c32;
 	display: inline-block;
 	font-weight: normal;
 	margin: 0 0 20px;
